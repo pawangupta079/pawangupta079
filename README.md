@@ -84,10 +84,10 @@
 <p align="left">
 
 <a href="https://leetcode.com/pawan079/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="devgoyalg" /></a>
-<a href="https://www.codechef.com/users/devgoyalg" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="devgoyalg"/></a>
-<a href="https://www.naukri.com/code360/profile/devgoyalg" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="devgoyalg"/></a>
-<a href="https://www.geeksforgeeks.org/user/devgoyalg/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="devgoyalg"/></a>
-<a href="https://www.hackerrank.com/profile/devgoyalg" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="devgoyalg"/></a>
+<a href="https://www.codechef.com/users/pkg739895" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="devgoyalg"/></a>
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="devgoyalg"/></a>
+<a href="https://www.geeksforgeeks.org/user/pkg73pawan/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="devgoyalg"/></a>
+<a href="https://www.hackerrank.com/profile/pkg739895" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="devgoyalg"/></a>
 
 </p>
 
