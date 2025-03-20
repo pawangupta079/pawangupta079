@@ -1,6 +1,6 @@
 <!--
 <h1 align="center">Hi there👋, I'm Pawan Kumar Gupta</h1>
-<h3 align="center">"A passionate Full Stack developer with a strong interest in machine learning and data structures & algorithms. Continuously exploring new technologies, driven to create impactful and efficient solutions while expanding expertise across these domains."</h3>
+<h3 align="center">"A passionate Full Stack developer with a strong interest in developments and data structures & algorithms. Continuously exploring new technologies, driven to create impactful and efficient solutions while expanding expertise across these domains."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan-079&label=Profile%20views&color=0e75b6&style=flat" alt="pawan-079" /> </p>
 
