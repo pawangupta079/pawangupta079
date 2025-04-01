@@ -62,7 +62,7 @@
 - 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
 - 💻 **3⭐** on **HackerRank** in **Python, Java & SQL**
 - 👨‍💻 **1⭐** on **CodeChef**
-- 📫 Feel free to contact me : **devgoyalg2346@gmail.com**
+- 📫 Feel free to contact me : **pawangupta2346@gmail.com**
 - ⚡ Fun fact **I am Singer and Writer**
 
 -->
@@ -71,11 +71,11 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/devgoyalg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devgoyalg" height="30" width="40" /></a>
-<a href="https://twitter.com/devgoyalg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devgoyalg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dev_goyal_g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devgoyalg" height="30" width="40" /></a>
-<a href="https://www.snapchat.com/add/dev.goyalg" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/snapchat.svg" alt="devgoyalg" height="30" width="40" /></a>
-<a href="https://discord.com/users/devgoyalg" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="devgoyalg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pawangupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawangupta" height="30" width="40" /></a>
+<a href="https://twitter.com/pawangupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawangupta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dev_goyal_g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawangupta" height="30" width="40" /></a>
+<a href="https://www.snapchat.com/add/dev.goyalg" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/snapchat.svg" alt="pawangupta" height="30" width="40" /></a>
+<a href="https://discord.com/users/pawangupta" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="pawangupta" height="30" width="40" /></a>
 
 </p> -->
 
@@ -83,11 +83,11 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/pawan079/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="devgoyalg" /></a>
-<a href="https://www.codechef.com/users/pkg739895" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="devgoyalg"/></a>
-<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="devgoyalg"/></a>
-<a href="https://www.geeksforgeeks.org/user/pkg73pawan/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="devgoyalg"/></a>
-<a href="https://www.hackerrank.com/profile/pkg739895" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="devgoyalg"/></a>
+<a href="https://leetcode.com/pawan079/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="pawangupta" /></a>
+<a href="https://www.codechef.com/users/pkg739895" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="pawangupta"/></a>
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="pawangupta"/></a>
+<a href="https://www.geeksforgeeks.org/user/pkg73pawan/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="pawangupta"/></a>
+<a href="https://www.hackerrank.com/profile/pkg739895" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="pawangupta"/></a>
 
 </p>
 
@@ -105,12 +105,12 @@
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 
 <!--
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="devgoyalg" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="devgoyalg" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="devgoyalg" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="devgoyalg" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="devgoyalg" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="devgoyalg" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="pawangupta" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="pawangupta" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="pawangupta" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="pawangupta" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="pawangupta" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="pawangupta" /></a>
 -->
 
 </p>
@@ -179,9 +179,9 @@
 	<a href="https://github.com/Pawan-079" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/pawan-kumar-gupta-592463254/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<a href="https://x.com/DevGoyalG/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
+	<a href="https://x.com/pawangupta/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
 	<a href="https://www.instagram.com/pawan_g79/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="X"/></a>
 	<a href="mailto:pkg739895@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-<!-- Made By DevGoyalG -->
+
