@@ -2,15 +2,15 @@
 <h1 align="center">Hi there👋, I'm Pawan Kumar Gupta</h1>
 <h3 align="center">"A passionate Full Stack developer with a strong interest in developments and data structures & algorithms. Continuously exploring new technologies, driven to create impactful and efficient solutions while expanding expertise across these domains."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan-079&label=Profile%20views&color=0e75b6&style=flat" alt="pawan-079" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawangupta079&label=Profile%20views&color=0e75b6&style=flat" alt="pawangupta079" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawan-079" alt="pawan-079" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawangupta079" alt="pawangupta079" /></a> </p>
 
 - 🔭 I’m currently working on **Web development projects**
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pawan-079](https://github.com/Pawan-079)
+- 👨‍💻 All of my projects are available at [https://github.com/pawangupta079](https://github.com/pawangupta079)
 
 - 💬 Ask me about **Machine Learning, Python, React,DSA**
 
@@ -31,9 +31,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan-079&show_icons=true&locale=en&layout=compact" alt="pawan-079" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawangupta079&show_icons=true&locale=en&layout=compact" alt="pawangupta079" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan-079&show_icons=true&locale=en" alt="pawan-079" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawangupta079&show_icons=true&locale=en" alt="pawangupta079" /></p>
 <h2>Radhe Radhe!</h2>
 
 -->
@@ -45,13 +45,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pawan-079&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan-079" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawangupta079&label=Profile%20views&color=0e75b6&style=flat" alt="pawangupta079" /> </p>
 
 ## 👨‍💻  &nbsp;About Me 
 
 - 🔭 I’m currently working on **Web development projects**
 - 🌱 I’m currently learning **Web Development**
-- 👨‍💻 All of my projects are available at [https://github.com/Pawan-079](https://github.com/Pawan-079)
+- 👨‍💻 All of my projects are available at [https://github.com/pawangupta079](https://github.com/pawangupta079)
 - 💬 Ask me about **Machine Learning, Python, React,DSA**
 - 📫 How to reach me **pkg739895@gmail.com**
 - 📄 Know about me. [https://pawan-website-835b06.netlify.app/](https://pawan-website-835b06.netlify.app/)
@@ -148,7 +148,7 @@
 <p>
 
 ## &nbsp;🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pawan-079&theme=algolia)](https://github.com/Pawan-079/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pawangupta079&theme=algolia)](https://github.com/pawangupta079/github-profile-trophy)
 
 ## 📊 Github Stats
 
@@ -156,9 +156,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashitanamdeo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> -->
 
 <p align="left">
-<a href="https://github.com/Pawan-079">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pawan-079&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pawan-079&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/pawangupta079">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pawangupta079&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pawangupta079&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -167,7 +167,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pawan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-079&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pawan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawangupta079&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
@@ -176,7 +176,7 @@
 
 <p align="center">
 	<a href="https://pawan-website-835b06.netlify.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/Pawan-079" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/pawangupta079" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/pawan-kumar-gupta-592463254/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
 	<a href="https://x.com/pawangupta/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
