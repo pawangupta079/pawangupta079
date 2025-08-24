@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pkg739895@gmail.com**
 
-- 📄 Know about me. [https://pawan-website-835b06.netlify.app/](https://pawan-website-835b06.netlify.app/)
+- 📄 Know about me. [https://hello-world-showcase-50.lovable.app/](https://hello-world-showcase-50.lovable.app/)
 
 - ⚡ fact **I think i'm resilient.**
 
