@@ -19,7 +19,7 @@
 - 📄 Know about me. [https://hello-world-showcase-50.lovable.app/](https://hello-world-showcase-50.lovable.app/)
 
 - ⚡ fact **I think i'm resilient.**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https:www.linkedin.com/in/pawan-kumar-gupta-592463254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
