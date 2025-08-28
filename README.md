@@ -54,7 +54,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/pawangupta079](https://github.com/pawangupta079)
 - 💬 Ask me about **Machine Learning, Python, React,DSA**
 - 📫 How to reach me **pkg739895@gmail.com**
-- 📄 Know about me. [https://pawan-website-835b06.netlify.app/](https://hello-world-showcase-50.lovable.app/)
+- 📄 Know about me. [https://hello-world-showcase-50.lovable.app/](https://hello-world-showcase-50.lovable.app/)
 
 <!--
 ## 👨‍💻  &nbsp;About Me 
