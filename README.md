@@ -22,7 +22,7 @@
 
 💼 Currently working as a **Graduate Engineer Trainee (GET) at Sopra Steria**.
 
-🗄️ My current technical focus is **Microsoft SQL Server 2016, T-SQL, SSIS and ETL/Data Integration**.
+🗄️ My current technical focus is **Microsoft SQL Server, T-SQL, SSIS and ETL/Data Integration**.
 
 🤖 Alongside data engineering, I enjoy working with **AI/ML, Generative AI and intelligent applications**.
 
