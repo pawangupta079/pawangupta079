@@ -182,8 +182,11 @@ An AI-assisted application supporting resume upload, evaluation and candidate sc
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pawangupta079&theme=algolia&margin-w=8&margin-h=8" alt="GitHub Profile Trophy">
+  <a href="https://github.com/pawangupta079">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=pawangupta079&theme=algolia&column=7&row=1&margin-w=10&margin-h=10"
+      alt="Pawan Kumar Gupta GitHub Trophies"
+    />
   </a>
 </p>
 
