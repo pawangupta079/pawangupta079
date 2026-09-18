@@ -20,7 +20,7 @@ Graduate Engineer Trainee @ Sopra Steria | SQL Server & SSIS | AI/ML & Full Stac
 
 - 🎓 **B.Tech in Computer Science & Engineering (AI & ML)** graduate
 - 💼 Currently working as a **Graduate Engineer Trainee (GET) at Sopra Steria**
-- 🗄️ Working with **MS SQL Server 2016, T-SQL, Database & SSIS**
+- 🗄️ Working with **MS SQL Server, T-SQL, Database & SSIS**
 - 🔄 Interested in **ETL, Data Integration, Data Engineering & Business Intelligence**
 - 🤖 Strong interest in **Artificial Intelligence, Machine Learning & Generative AI**
 - 🌐 Experienced in **Full Stack Web Development**
