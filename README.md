@@ -182,11 +182,22 @@ An AI-assisted application supporting resume upload, evaluation and candidate sc
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pawangupta079&theme=algolia&margin-w=8&margin-h=8" alt="GitHub Profile Trophy">
+  <a href="https://github.com/pawangupta079">
+    <img
+      src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
+      width="150"
+      alt="Quickdraw"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pawangupta079">
+    <img
+      src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
+      width="150"
+      alt="Pull Shark"
+    />
   </a>
 </p>
-
 ---
 
 ## 🤝 Let's Connect
