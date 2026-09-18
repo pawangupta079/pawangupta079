@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>💼 GET @ Sopra Steria &nbsp;•&nbsp; 🗄️ SQL & SSIS &nbsp;•&nbsp; 🤖 AI/ML &nbsp;•&nbsp; 🌐 Full Stack</b>
+  <b>💼 Engineer Trainee @ Sopra Steria &nbsp;•&nbsp; 🗄️ SQL & SSIS &nbsp;•&nbsp; 🤖 AI/ML &nbsp;•&nbsp; 🌐 Full Stack</b>
 </p>
 
 ---
