@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases">
 </p>
 
-**SQL Server 2016** • **T-SQL** • **SSIS** • **ETL** • Data Integration • Stored Procedures • CTEs • Window Functions • Query Optimization
+**SQL Server** • **T-SQL** • **SSIS** • **ETL** • Data Integration • Stored Procedures • CTEs • Window Functions • Query Optimization
 
 **SSIS:** Control Flow • Data Flow • Lookup • Conditional Split • Derived Column • Data Conversion • Execute SQL Task • Variables & Expressions • Error Handling
 
